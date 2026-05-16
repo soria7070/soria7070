@@ -5,7 +5,7 @@
   </ul>
 </div>
 
- --> Sobre mi:
+<h2>Sobre mi:</h2>
 
 Soy programador junior con conocimientos Full Stack, Recientemente he finalizado mis estudios y prácticas profesionales, y actualmente me encuentro en búsqueda de una oportunidad laboral donde pueda seguir aprendiendo y creciendo.
 
