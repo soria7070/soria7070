@@ -1,7 +1,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Victor Gonzalez</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, Soy Víctor</h1></summary>
   </ul>
 </div>
 
@@ -34,8 +34,12 @@ Aunque mi experiencia profesional aún es limitada, cuento con muchos conocimien
   </ul>
 </div>
 
---> victorgonizq70@gmail.com
-
---> https://www.linkedin.com/in/victorgonizq/
-
---> https://soria7070.github.io/portfolio/
+<p align="center">
+victorgonizq70@gmail.com
+<p/>
+<p align="center">
+https://www.linkedin.com/in/victorgonizq/
+<p/>
+<p align="center">
+https://soria7070.github.io/portfolio/
+<p/>
