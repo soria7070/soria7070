@@ -27,3 +27,15 @@ Aunque mi experiencia profesional aún es limitada, cuento con muchos conocimien
     <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,bash,bootstrap,c,css,docker,firebase,flutter,git,github,gitlab,html,java,js,kotlin,laravel,linux,maven,mint,mongodb,mysql,nginx,nodejs,npm,php,postgres,postman,powershell,py,react,spring,sqlite,stackoverflow,symfony,tailwind,ts,ubuntu,vscode&perline=10" />
   </a>
 </p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Contacto:</h2></summary>
+  </ul>
+</div>
+
+--> victorgonizq70@gmail.com
+
+--> https://www.linkedin.com/in/victorgonizq/
+
+--> https://soria7070.github.io/portfolio/
